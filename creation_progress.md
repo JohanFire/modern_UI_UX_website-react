@@ -1,0 +1,1 @@
+# Here will be all progress & notes along the project.
