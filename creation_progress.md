@@ -12,3 +12,10 @@
     # create react app in the current folder
     npx create-react-app ./
 ```
+
+## Dependencies
+Will only use one external dependency for now, which is react-icons.
+### Install React Icons
+```bash
+    npm install react-icons
+```
