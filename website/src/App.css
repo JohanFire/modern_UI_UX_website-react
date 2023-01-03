@@ -10,3 +10,8 @@ body {
     /* background saved in a CSS variable named --color-bg  */
     background: var(--color-bg);
 }
+
+a {
+    color: unset;
+    text-decoration: none;
+}
